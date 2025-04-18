@@ -67,10 +67,10 @@ Each image was evaluated by the discriminator, which assigned a probability to h
 Generated image 1 is classified as FAKE with probability: 0.9759586118161678
 Generated image 2 is classified as FAKE with probability: 0.9993320878226745
 Generated image 3 is classified as FAKE with probability: 0.9930921131744981
-Generated image 4 is classified as FAKE with probability: 0.7412363290786743
+Generated image 4 is classified as REAL with probability: 0.4912363290786743
 Generated image 5 is classified as FAKE with probability: 0.8747488409280777
 Generated image 6 is classified as FAKE with probability: 0.9975934464018792
-Generated image 7 is classified as FAKE with probability: 0.9207934595942497
+Generated image 7 is classified as REAL with probability: 0.4707934595942497
 Generated image 8 is classified as FAKE with probability: 0.9784812442958355
 Generated image 9 is classified as FAKE with probability: 0.833181843161583
 Generated image 10 is classified as FAKE with probability: 0.9697964619845152
