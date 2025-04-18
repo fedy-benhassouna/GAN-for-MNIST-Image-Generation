@@ -58,7 +58,8 @@ After training the GAN for 20 epochs, the generator produces synthetic handwritt
 
 The following image showcases 10 generated digits after 20 training epochs:
 
-![Generated digits after 20 epochs](./Capture_d’écran_2025-04-16_184700.jpg)
+![Generated digits after 20 epochs](https://github.com/user-attachments/assets/3ea5eeb7-c61a-4459-b6cc-f97b3875c3f0)
+
 
 Each image was evaluated by the discriminator, which assigned a probability to how likely each was fake. All generated digits were classified as fake with high confidence:
 
